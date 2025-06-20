@@ -2,6 +2,17 @@
 
 O TechTudoDelivery é um sistema completo para gerenciamento de pedidos com backend em Node.js/Express e frontend em React.
 
+---
+
+## Pré-visualização
+
+Confira uma prévia do do projeto:
+
+![Imagem da Aplicação](./frontend/public/img01.png)
+![Imagem da Aplicação](./frontend/public/img02.png)
+
+---
+
 ## Funcionalidades
 
 - ✅ Cadastro de novos pedidos
